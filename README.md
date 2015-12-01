@@ -28,6 +28,6 @@ Run the project
 Test on the browser
 -------------------
 
-	<http://localhost:8080/>
+	[http://localhost:8080/](http://localhost:8080/)
 	
 	Check the Firebug Console and the Server log.
