@@ -22,7 +22,9 @@ Run the project
 ----------------
 
 ```bash
-	mvn spring-boot:run
+	java -jar target/websocket-demo.war
+	
+	(It will run on the embedded tomcat, but you could easily deploy on your favorite webserver too
 ```
 
 Test on the browser
