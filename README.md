@@ -24,7 +24,7 @@ Run the project
 ```bash
 	java -jar target/websocket-demo.war
 	
-	(It will run on the embedded tomcat, but you could easily deploy on your favorite webserver too
+	(It will run on the embedded tomcat, but you could easily deploy on your favorite web container too)
 ```
 
 Test on the browser
